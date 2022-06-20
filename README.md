@@ -11,7 +11,7 @@ Stt | Mã sinh viên | Tên
 
 ### *HƯỚNG DẪN, CÀI ĐẶT VÀ CHẠY THỬ*:
 
-Các bạn vui lòng tải về và xem file `báo_cáo.docx` hoặc `báo_cáo.doc` nếu không xem được `.docx`
+Các bạn vui lòng tải về và xem file `BaoCao_XeMart.docx` hoặc `BaoCao_XeMart.doc` nếu không xem được `.docx`
 
 [DEMO](https://xe-mart.vercel.app/)
 
