@@ -17,7 +17,7 @@ Các bạn vui lòng tải về và xem file `Tổng quan về báo_cáo.docx` h
 
 ### *SCREENSHOTS:*
 ![Trang chủ](screenshots/screenshot_home.png)
-![Sản phẩm](screenshot_sp.png)
+![Sản phẩm](screenshots/screenshot_sp.png)
 ![Đăng nhập](screenshots/screenshot_login.png)
 ![Đăng kí](screenshots/screenshot_reg.png)
  
