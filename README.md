@@ -4,7 +4,7 @@
 
 Stt | Mã sinh viên | Tên
 ---- | ---- | ---
-1 | 2004894 | [Hồ Hoàng Nam](https://www.facebook.com/neimsu/)
+1 | 20004894 | [Hồ Hoàng Nam](https://www.facebook.com/neimsu/)
 2 | 20004142 | [Nguyễn Huỳnh Nhật Hoàng](https://www.facebook.com/tatca.tungla.161)
 3 | 20004664 | [Nguyễn Phan Trung Kiên](https://www.facebook.com/trungkienBP102)
 4 | 20003856 | [Khưu Trường Thịnh](https://www.facebook.com/profile.php?id=100008722242017)
