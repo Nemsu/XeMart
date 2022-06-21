@@ -11,6 +11,7 @@ Stt | Mã sinh viên | Tên
 
 ### *HƯỚNG DẪN, CÀI ĐẶT VÀ CHẠY THỬ*:
 Các bạn cài extension [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) hoặc chạy thẳng từ fille index.html
+
 Các bạn vui lòng tải về và xem file `BaoCao_XeMart.docx` hoặc `BaoCao_XeMart.doc` nếu không xem được `.docx`
 
 [DEMO](https://xe-mart.vercel.app/)
